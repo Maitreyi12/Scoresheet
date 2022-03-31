@@ -1,1 +1,1 @@
-# DINO-RUN
+# Dino-Run
